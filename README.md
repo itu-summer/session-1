@@ -51,4 +51,4 @@ Here you'll choose the default setting, i.e. just press import again and wait un
 Now, you can see your repositories, such as the `session-1`. If you click on a repository you will be able see and access all the different files in that repository. You will even be able to open the `.ipynb` files, which is a Python notebook, without having to install Python on you computer first. So now, if you navigate in to the 'session-1' repository, you can chat with _ELIZA_ by opening the `Talk to me.ipynb`.
 
 
-To write your first program open the `Notebooks.ipynb` by clicking on it.
+To write your first program open the `Notebook.ipynb` by clicking on it.
