@@ -1,4 +1,4 @@
-# Qualfication seminar teaching materials 2018
+# Qualification seminar teaching materials 2018
 
 This repository contains the course materials for the first session of the qualification seminar.
 
